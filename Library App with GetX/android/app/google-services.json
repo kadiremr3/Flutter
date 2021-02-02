@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "842467596955",
+    "project_id": "libraryapp-fac92",
+    "storage_bucket": "libraryapp-fac92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842467596955:android:9bdf948c576e041475043e",
+        "android_client_info": {
+          "package_name": "com.example.Nook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842467596955-mjqo5gafpao84k6k9gr4nq4f1r28b8ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Nook",
+            "certificate_hash": "2f6c4b3f5bc9a7b2cd47b26b5c89693d8e391033"
+          }
+        },
+        {
+          "client_id": "842467596955-51ds3tvbpu6vr4uj05b5ce64v6pcvrba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUyBdmZJ2trGXDoGenKCZAtusV6WBOTcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842467596955-51ds3tvbpu6vr4uj05b5ce64v6pcvrba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
