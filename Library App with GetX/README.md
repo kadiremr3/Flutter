@@ -1,16 +1,12 @@
-# Nook
+Screenshots of the App
 
-Library App
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Login Screen](https://user-images.githubusercontent.com/61358759/116042118-bbad9880-a676-11eb-8a1a-1c558b9cc4!
+![Login Screen with Error](https://user-images.githubusercontent.com/61358759/116042101-b3edf400-a676-11eb-87dc-98555e15aa75.jpg)
+![Sign Up Screen](https://user-images.githubusercontent.com/61358759/116042113-b94b3e80-a676-11eb-8585-9da6a7e7ca48.jpg)
+[Home Screen](https://user-images.githubusercontent.com/61358759/116042152-c23c1000-a676-11eb-876d-913a1be187ff.jpg)
+![Long Pressed on a Tile](https://user-images.githubusercontent.com/61358759/116042140-c0724c80-a676-11eb-8a77-c87b92eeb7c5.jpg)
+![Updating the Specific Key](https://user-images.githubusercontent.com/61358759/116042143-c10ae300-a676-11eb-81f9-e5b90097a584.jpg)
+![Book Information Page](https://user-images.githubusercontent.com/61358759/116042139-bfd9b600-a676-11eb-8358-9fe1969de847.jpg)
+![Adding a Book](https://user-images.githubusercontent.com/61358759/116042146-c1a37980-a676-11eb-8c92-9443b72af83c.jpg)
+![Adding a Book with Succcess Snackbar](https://user-images.githubusercontent.com/61358759/116042150-c23c1000-a676-11eb-98e3-f4c2e5bc23f7.jpg)
+![Warning Message](https://user-images.githubusercontent.com/61358759/116042136-bfd9b600-a676-11eb-95b6-b53cd7b94014.jpg)
