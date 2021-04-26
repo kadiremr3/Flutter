@@ -1,5 +1,5 @@
 
-This is a simple library app created by me. I benefited from Firebase and GetX Package in this app.
+This is a simple library app created by me. I have benefited from Firebase and GetX Package in this app.
 
 Screenshots of the App
 
