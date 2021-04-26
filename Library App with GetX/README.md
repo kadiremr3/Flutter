@@ -5,7 +5,7 @@ Screenshots of the App
 
 
 
-<img src="https://user-images.githubusercontent.com/61358759/116042505-28289780-a677-11eb-8b7a-7aa6ae84851b.jpg" width = "250" height = "450">
+<img src="https://user-images.githubusercontent.com/61358759/116042505-28289780-a677-11eb-8b7a-7aa6ae84851b.jpg" width = "220" height = "450">
 ![Login Screen with Error](https://user-images.githubusercontent.com/61358759/116042101-b3edf400-a676-11eb-87dc-98555e15aa75.jpg)
 ![Sign Up Screen](https://user-images.githubusercontent.com/61358759/116042113-b94b3e80-a676-11eb-8585-9da6a7e7ca48.jpg)
 ![Home Screen](https://user-images.githubusercontent.com/61358759/116042152-c23c1000-a676-11eb-876d-913a1be187ff.jpg)
