@@ -1,3 +1,6 @@
+
+This is a simple library app created by me. I benefited from Firebase and GetX Package in this app.
+
 Screenshots of the App
 
 ![Login Screen](https://user-images.githubusercontent.com/61358759/116042505-28289780-a677-11eb-8b7a-7aa6ae84851b.jpg)
